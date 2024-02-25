@@ -1,0 +1,18 @@
+
+
+body {
+    background-image: url(image/poker.jpg);
+    background-size: cover;
+    background-position: center 50px;
+    background-repeat: no-repeat;
+    padding: 20px;
+    margin: 0; /* Använd margin: 0; för att ta bort det vertikala mellanrummet */
+}
+
+h1 {
+    color: rgb(218, 22, 156);
+    font-size: 3em; 
+    text-align: center; 
+    margin-top: 50px;  
+}
+
